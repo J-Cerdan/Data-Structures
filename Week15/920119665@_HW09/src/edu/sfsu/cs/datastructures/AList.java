@@ -9,6 +9,8 @@ import java.util.Arrays;
 
 /**
  *
+ * 
+ * 
  * @author josep
  */
 public class AList<T> implements ListInterface<T>{
